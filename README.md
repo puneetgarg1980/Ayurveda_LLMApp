@@ -1,1 +1,1 @@
-# Ayurveda_LLMApp
+# Ayurveda LLMApp
